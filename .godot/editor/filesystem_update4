@@ -1,3 +1,11 @@
 res://scenes/game.tscn
 res://scenes/player.tscn
 res://scenes/platform.tscn
+res://scenes/coin.tscn
+res://scripts/coin.gd
+res://scripts/kill_zone.gd
+res://scenes/kill_zone.tscn
+res://scripts/purp_slime.tscn
+res://scenes/purp_slime.gd
+res://scenes/purp_slime.tscn
+res://scripts/purp_slime.gd
