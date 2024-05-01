@@ -1,9 +1,12 @@
-Node
+AnimationPlayer
+AudioStreamPlayer2D
+GridContainer
 Label
+CanvasLayer
+Node
 RayCast2D
 CollisionShape2D
 AnimatedSprite2D
-AnimationPlayer
 Timer
 Area2D
 Sprite2D
